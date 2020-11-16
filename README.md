@@ -1,2 +1,3 @@
-# mapylary
-An API wrapper for Mapilary
+## Mapillary Wrapper
+
+This is a wrapper for the Mapillary API.
